@@ -1,1 +1,0 @@
-React.js redux example
